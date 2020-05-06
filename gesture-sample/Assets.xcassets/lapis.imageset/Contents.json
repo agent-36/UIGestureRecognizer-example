@@ -1,27 +1,22 @@
 {
   "images" : [
     {
-      "idiom" : "universal",
       "filename" : "lapis.jpeg",
+      "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "lapis.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
       "scale" : "3x"
-    },
-    {
-      "idiom" : "universal",
-      "filename" : "lapis.jpg",
-      "unassigned" : true,
-      "scale" : "1x"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }
