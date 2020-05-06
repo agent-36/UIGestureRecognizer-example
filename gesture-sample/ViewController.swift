@@ -88,5 +88,13 @@ class ViewController: UIViewController {
         gesture.scale = 1
     }
     
+    @IBAction func handleRotationGesture(_ gesture: UIRotationGestureRecognizer) {
+        guard let gestureView = gesture.view else {
+            return
+        }
+        gestureView.transform = gestureView.transform.rotated(by: gesture.rotation)
+        gesture.rotation = 0
+    }
+    
 }
 
