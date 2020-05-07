@@ -2,8 +2,8 @@
 //  SwipeViewController.swift
 //  gesture-sample
 //
-//  Created by Ihwan ID on 07/05/20.
-//  Copyright © 2020 Ihwan ID. All rights reserved.
+//  Created by Agent36 on 07/05/20.
+//  Copyright © 2020 Agent36. All rights reserved.
 //
 
 import UIKit
@@ -49,14 +49,5 @@ class SwipeViewController: UIViewController {
                self.swipeLabel.text = "Down Swipe"
            }
 
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
 
 }

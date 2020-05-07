@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  gesture-sample
 //
-//  Created by Ihwan ID on 06/05/20.
-//  Copyright © 2020 Ihwan ID. All rights reserved.
+//  Created by Agent36on 06/05/20.
+//  Copyright © 2020 Agent36. All rights reserved.
 //
 
 import UIKit
