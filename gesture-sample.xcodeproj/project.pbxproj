@@ -13,6 +13,7 @@
 		603F35182462A3A80014801E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 603F35162462A3A80014801E /* Main.storyboard */; };
 		603F351A2462A3A90014801E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 603F35192462A3A90014801E /* Assets.xcassets */; };
 		603F351D2462A3A90014801E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 603F351B2462A3A90014801E /* LaunchScreen.storyboard */; };
+		605BFDE724646B2E001C6F50 /* SwipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605BFDE624646B2E001C6F50 /* SwipeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		603F35192462A3A90014801E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		603F351C2462A3A90014801E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		603F351E2462A3A90014801E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		605BFDE624646B2E001C6F50 /* SwipeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				603F35192462A3A90014801E /* Assets.xcassets */,
 				603F351B2462A3A90014801E /* LaunchScreen.storyboard */,
 				603F351E2462A3A90014801E /* Info.plist */,
+				605BFDE624646B2E001C6F50 /* SwipeViewController.swift */,
 			);
 			path = "gesture-sample";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				603F35152462A3A80014801E /* ViewController.swift in Sources */,
 				603F35112462A3A80014801E /* AppDelegate.swift in Sources */,
 				603F35132462A3A80014801E /* SceneDelegate.swift in Sources */,
+				605BFDE724646B2E001C6F50 /* SwipeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
